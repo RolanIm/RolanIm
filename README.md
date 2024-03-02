@@ -3,13 +3,11 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RolanIm" alt="RolanIm" /></a> </p>
 
+- 📄 My resume **[Google Docs](https://docs.google.com/document/d/1YwG3liMjAYRKxeokwmpJndtaKszfn5NLh9tJPjd9hq0/edit?usp=sharing)**
+
 - 🌱 I’m currently learning **Docker, Algortihms and Data Structures**
 
-- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/RolanIm)**
-
 - 📫 How to reach me **[Gmail](imangulov.roman2015@gmail.com)**
-
-- 📄 My resume **[Google Docs](https://docs.google.com/document/d/1YwG3liMjAYRKxeokwmpJndtaKszfn5NLh9tJPjd9hq0/edit?usp=sharing)**
 
 - 🌍 I speak Russian (native), English (B2)
 
