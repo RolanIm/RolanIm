@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Docker, Algortihms and Data Structures**
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/RolanIm)
+- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/RolanIm)**
 
 - 📫 How to reach me **[Gmail](imangulov.roman2015@gmail.com)**
 
-- 📄 My resume [Google Docs](https://docs.google.com/document/d/1YwG3liMjAYRKxeokwmpJndtaKszfn5NLh9tJPjd9hq0/edit?usp=sharing)
+- 📄 My resume **[Google Docs](https://docs.google.com/document/d/1YwG3liMjAYRKxeokwmpJndtaKszfn5NLh9tJPjd9hq0/edit?usp=sharing)**
 
 - 🌍 I speak Russian (native), English (B2)
 
