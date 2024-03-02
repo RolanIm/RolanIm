@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Rolan Imangulov👋</h1>
 <h3 align="center">Python Backend Developer from Russia</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RolanIm" alt="RolanIm" /></a> </p>
-
 - 📄 My resume **[Google Docs](https://docs.google.com/document/d/1YwG3liMjAYRKxeokwmpJndtaKszfn5NLh9tJPjd9hq0/edit?usp=sharing)**
 
 - 🌱 I’m currently learning **Docker, Algortihms and Data Structures**
@@ -21,7 +19,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,django,docker,nginx,linux,git,postgresql,sqlite,redis,js,html,css,tailwind,bootstrap,postman)](https://skillicons.dev)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RolanIm&show_icons=true&theme=dark&locale=en&layout=compact" alt="RolanIm" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RolanIm" alt="RolanIm" /></a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RolanIm&show_icons=true&theme=dark&locale=en" alt="RolanIm" /></p>
 
