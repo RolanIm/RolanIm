@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **[Gmail](imangulov.roman2015@gmail.com)**
 
-- 🌍 I speak Russian (native), English (B2)
+- 🌍 I speak Russian (native), English (B1)
 
 ### Connect with me:
 <p align="left">
@@ -17,7 +17,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,docker,nginx,linux,git,postgresql,sqlite,redis,js,html,css,tailwind,bootstrap,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,docker,nginx,linux,git,postgresql,sqlite,redis,js,html,css,bootstrap,postman)](https://skillicons.dev)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RolanIm" alt="RolanIm" /></a> </p>
 
