@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rolan Imangulov👋</h1>
-<h3 align="center">Python Backend Developer from Russia</h3>
+<h3 align="center">Python Backend Developer</h3>
 
 - 📄 My resume **[Google Docs](https://docs.google.com/document/d/1YwG3liMjAYRKxeokwmpJndtaKszfn5NLh9tJPjd9hq0/edit?usp=sharing)**
 
