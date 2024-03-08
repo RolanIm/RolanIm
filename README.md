@@ -23,7 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RolanIm&show_icons=true&theme=dark&locale=en" alt="RolanIm" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RolanIm&theme=dark" alt="RolanIm" /></p>
-
-[![Rolan's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Rolan_zzz&theme=dark)](https://github.com/Rolan_zzz/leetcode-stats)
-
-
