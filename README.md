@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Algortihms and Data Structures**
 
-- 📫 How to reach me **[Gmail](imangulov.roman2015@gmail.com)**
-
 - 🌍 I speak Russian (native), English (B2)
 
 ### Connect with me:
