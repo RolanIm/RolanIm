@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Rolan Imangulov👋</h1>
 <h3 align="center">Python Backend Developer</h3>
 
-- 🌱 I’m currently learning **Fast API, Algortihms and Data Structures**
+- 🌱 I’m currently learning **Algortihms and Data Structures**
 
 - 📫 How to reach me **[Gmail](imangulov.roman2015@gmail.com)**
 
-- 🌍 I speak Russian (native), English (B1)
+- 🌍 I speak Russian (native), English (B2)
 
 ### Connect with me:
 <p align="left">
